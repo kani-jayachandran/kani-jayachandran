@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there 👋, I'm Kani Jayachandran!
 
-<!--
-**kani-jayachandran/kani-jayachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a second-year Engineering student with a passion for coding, problem-solving, and building projects. Finalist of National Geo AI Hackathon(IIT Bombay).
 
-Here are some ideas to get you started:
+🧠 I’m currently learning:
+- Java for DSA
+- Core Computer Science concepts
+- Building real-world projects(Currently working on Agentic Multimodel Co-Pilot for Doctors)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’ve solved 400+ LeetCode problems and I'm constantly improving my skills.
+
+🔭 I’m currently working on:
+- Strengthening my Data Structures & Algorithms
+- Creating a portfolio of mini-projects
+
+📚 I'm interested in:
+- Problem Solving
+- Competitive Programming
+- Devops
+- Exploring different technologies
+
+
+📫 How to reach me:
+- ✉️ kanijayachandran25@gmail.com
+- 🌐 www.linkedin.com/in/kani-jayachandran-68886a327
+
+---
+
+⚡ Fun fact: I love improving every day — even a small step forward matters 🚀
+
+
+
+
+<!---
+kanijayachandran-sys/kanijayachandran-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
